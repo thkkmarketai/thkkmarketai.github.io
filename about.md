@@ -4,11 +4,9 @@ title: thkk market AI
 description: about
 ---
 
-## **about**
-
-
 ### **相場"勘"からの脱却**
 ### **Remove your "imagination" of the market**
+---
 
 　質が良く、独自性の高い "情報" の取得・生成に奔走することは、市場参加者の必須業務であると共に、パフォーマンスを維持する生命線となります。しかし、当然ながらその情報は全ての市場参加者に平等に与えられる訳ではなく、真偽の判断にも自身の力量が問われることになります。
 
@@ -29,24 +27,28 @@ description: about
 
 ### **プロジェクト内容**
 ### **Project Categories**
+---
 
 　このページでは、以下の6つに関する進捗を随時Updateしていきます。最初の4つはマーケットパラメータを取得・生成する工程、そして残りの2つはマーケット可視化と判断力の強化に繋げる工程になります。
 
 　I will update as needed about the following six ongoing projects. Initial four parts for generating parameters and two parts left for monitoring of the live market.
 
+---
 1. [マーケットデータ / Market Data](https://thkkmarketai.github.io/marketdata)
 2. [データ処理 / Data Preprocessing](https://thkkmarketai.github.io/datapreprocessing)
 3. [パターン / Patterns](https://thkkmarketai.github.io/patterns)
 4. [特徴量生成 / Feature Engineering](https://thkkmarketai.github.io/featureengineering)
 5. [マーケットモニタリング / Market Monitoring](https://thkkmarketai.github.io/marketmonitoring)
 6. [状態モニタリング / Status Monitoring](https://thkkmarketai.github.io/statusmonitoring)　　
+---
 
 　前工程と後工程、どちらか一方の質が良いだけでは求める効果に到達できません。AIの演算能力と監視能力を融合することが、目標達成の鍵になると考えています。
 
 　I can't reach the goal without getting both. It will be the most difficult part to combine AI computing power with surveillance technology.
 
 
-## **著者について / about author**
+### **著者について / about author**
+---
 
 <dl>
 <dt>Name</dt>
@@ -60,7 +62,8 @@ description: about
 </dl>
 
 
-## **免責事項 / Disclaimer**
+### **免責事項 / Disclaimer**
+---
 
 - 本ページはアルゴリズムによる自動売買、及びMachine LearningやDeep Learningなどを用いた投資を推奨するものではありません。
 - 本ページでは売買シグナルを生成するcode、及びバックテスト等のパフォーマンス評価を掲載することはありません。
