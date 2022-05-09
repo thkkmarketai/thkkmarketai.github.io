@@ -1,5 +1,3 @@
-<!-- # **thkk market AI** -->
-
 This is thkkmarketai Github Pages.
 
 thkkmarketaiのGithub Pagesへようこそ。

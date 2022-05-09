@@ -1,11 +1,14 @@
 ---
 layout: default
-title: TMAI
+title: thkk market AI
 description: about
 ---
 
+## **about**
 
-# **相場"勘"からの脱却 / Remove your "imagination" of the market** 
+
+### **相場"勘"からの脱却**
+### **Remove your "imagination" of the market**
 
 　質が良く、独自性の高い "情報" の取得・生成に奔走することは、市場参加者の必須業務であると共に、パフォーマンスを維持する生命線となります。しかし、当然ながらその情報は全ての市場参加者に平等に与えられる訳ではなく、真偽の判断にも自身の力量が問われることになります。
 
@@ -24,7 +27,8 @@ description: about
 　It's my goal to get there with AI.
 
 
-## **プロジェクト内容 / Project Categories**
+### **プロジェクト内容**
+### **Project Categories**
 
 　このページでは、以下の6つに関する進捗を随時Updateしていきます。最初の4つはマーケットパラメータを取得・生成する工程、そして残りの2つはマーケット可視化と判断力の強化に繋げる工程になります。
 
