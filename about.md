@@ -16,6 +16,10 @@ description: about
 
 　AIを駆使しその境地に可能な限り近づくことが、私の最終目標です。
 
+
+
+
+
 　All of financial market participants must spend lots of time to get high-quality and original market information to keep their performance stable. But that information is not provided to everyone equally, we need to clarify it is true or false.
 
 　"Information gap" is getting wider and wider by recent digitalization. Though it's easy to give up and say "Because they are always well-funded and employing lots of PhDs.", I think it is very essential task to try to reach out the "invisible part" of the financial market. The more we depend on our "imagination", the less precision we have.
@@ -34,12 +38,14 @@ description: about
 　I will update as needed about the following six ongoing projects. Initial four parts for generating parameters and two parts left for monitoring of the live market.
 
 ---
+
 1. [マーケットデータ / Market Data](https://thkkmarketai.github.io/marketdata)
 2. [データ処理 / Data Preprocessing](https://thkkmarketai.github.io/datapreprocessing)
 3. [パターン / Patterns](https://thkkmarketai.github.io/patterns)
 4. [特徴量生成 / Feature Engineering](https://thkkmarketai.github.io/featureengineering)
 5. [マーケットモニタリング / Market Monitoring](https://thkkmarketai.github.io/marketmonitoring)
-6. [状態モニタリング / Status Monitoring](https://thkkmarketai.github.io/statusmonitoring)　　
+6. [状態モニタリング / Status Monitoring](https://thkkmarketai.github.io/statusmonitoring)
+
 ---
 
 　前工程と後工程、どちらか一方の質が良いだけでは求める効果に到達できません。AIの演算能力と監視能力を融合することが、目標達成の鍵になると考えています。
@@ -73,4 +79,3 @@ description: about
 - This page does not recommend any algorithmic trading, any investment with technology like Machine Learning or Deep Learning.
 - This page does not show any code generating trading signals and performance evaluation with backtesting.  
 - When you use parameters in your environment, you must do everything like your PC hardware and software setting, understand financial market risk and market itself, backtesting, risk evaluation, and ever other task related to financial and investment AT YOUR OWN RISK.
--
