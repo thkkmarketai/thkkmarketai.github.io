@@ -14,8 +14,6 @@ description: about
 
 　「情報を持って市場を身動きしている」つもりが、実は「市場の思うがままに操られているだけ」という状況を、残念ながら私は何度も経験しました。マーケットを可視化して感覚依存を減らし、合理的に裏付けされた判断力を身につけ、マーケットに翻弄されない体質を得るにはどうすればよいでしょうか。
 
-　AIを駆使しその境地に可能な限り近づくことが、私の最終目標です。
-
 &emsp;
 
 　All of financial market participants must spend lots of time to get high-quality and original market information to keep their performance stable. But that information is not provided to everyone equally, we need to clarify it is true or false.
@@ -24,34 +22,32 @@ description: about
 
 　I experienced the situation again and again where I was just manipulated by the financial market. Even if I thought I was moving freely around the market, that was wrong. I'm wondering the way to make the market visible, to judge rationally, to get out confusing market movement.
 
-　It's my goal to get there with AI.
-
 &emsp;
-
 
 ### **プロジェクト内容**
 ### **Project Categories**
 ---
 
-　このページでは、以下の6つに関する進捗を随時Updateしていきます。最初の4つはマーケットパラメータを取得・生成する工程、そして残りの2つはマーケット可視化と判断力の強化に繋げる工程になります。
+　AIを駆使しその境地に可能な限り近づくことが、私の最終目標です。このページでは、以下の6つに関する進捗を随時Updateしていきます。最初の4つはマーケットパラメータを取得・生成する工程、そして残りの2つはマーケット可視化と判断力の強化に繋げる工程になります。
 
-　I will update as needed about the following six ongoing projects. Initial four parts for generating parameters and two parts left for monitoring of the live market.
+　It's my goal to get there with AI. I will update as needed about the following six ongoing projects. Initial four parts for generating parameters and two parts left for monitoring of the live market.
 
 ---
-
+&emsp;
 1. [マーケットデータ / Market Data](https://thkkmarketai.github.io/marketdata)
 2. [データ処理 / Data Preprocessing](https://thkkmarketai.github.io/datapreprocessing)
 3. [パターン / Patterns](https://thkkmarketai.github.io/patterns)
 4. [特徴量生成 / Feature Engineering](https://thkkmarketai.github.io/featureengineering)
 5. [マーケットモニタリング / Market Monitoring](https://thkkmarketai.github.io/marketmonitoring)
 6. [状態モニタリング / Status Monitoring](https://thkkmarketai.github.io/statusmonitoring)
-
+&emsp;
 ---
 
 　前工程と後工程、どちらか一方の質が良いだけでは求める効果に到達できません。AIの演算能力と監視能力を融合することが、目標達成の鍵になると考えています。
 
 　I can't reach the goal without getting both. It will be the most difficult part to combine AI computing power with surveillance technology.
 
+&emsp;
 
 ### **著者について / about author**
 ---
@@ -67,6 +63,7 @@ description: about
 <dd>Green</dd>
 </dl>
 
+&emsp;
 
 ### **免責事項 / Disclaimer**
 ---
