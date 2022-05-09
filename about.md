@@ -16,9 +16,7 @@ description: about
 
 　AIを駆使しその境地に可能な限り近づくことが、私の最終目標です。
 
-
-
-
+&emsp;
 
 　All of financial market participants must spend lots of time to get high-quality and original market information to keep their performance stable. But that information is not provided to everyone equally, we need to clarify it is true or false.
 
@@ -27,6 +25,8 @@ description: about
 　I experienced the situation again and again where I was just manipulated by the financial market. Even if I thought I was moving freely around the market, that was wrong. I'm wondering the way to make the market visible, to judge rationally, to get out confusing market movement.
 
 　It's my goal to get there with AI.
+
+&emsp;
 
 
 ### **プロジェクト内容**
