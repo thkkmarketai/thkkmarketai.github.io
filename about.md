@@ -71,9 +71,10 @@ description: about
 
 - 本ページはアルゴリズムによる自動売買、及びMachine LearningやDeep Learningなどを用いた投資を推奨するものではありません。
 - 本ページでは売買シグナルを生成するcode、及びバックテスト等のパフォーマンス評価を掲載することはありません。
-- 投資は自己責任です。PC・通信環境等のハードウェア整備、OS・プログラム等のソフトウェア整備、金融市場に対する知識習得やリスク認識、各種バックテ　ストやリスク評価、その他金融・投資実務に関する事項については、全てご自身で準備、運営、管理する必要があります。
-- あなたが本ページの掲載内容を用いて行う一切の行為、及び本ページの利用に関係して生じた事故、その他いかなる損害について、著者は一切の責任を負いま　せん。
+- 投資は自己責任です。PC・通信環境等のハードウェア整備、OS・プログラム等のソフトウェア整備、金融市場に対する知識習得やリスク認識、各種バックテストやパフォーマンス評価、その他金融・投資実務に関する事項について、全てご自身で準備、運営、管理する必要があります。
+- あなたが本ページの掲載内容を用いて行う一切の行為、及び本ページの利用に関係して生じた事故、その他いかなる損害について、著者は一切の責任を負いません。
 
 - This page does not recommend any algorithmic trading, any investment with technology like Machine Learning or Deep Learning.
 - This page does not show any code generating trading signals and performance evaluation with backtesting.  
-- When you use parameters in your environment, you must do everything like your PC hardware and software setting, understand financial market risk and market itself, backtesting, risk evaluation, and ever other task related to financial and investment AT YOUR OWN RISK.
+- When you use parameters in your environment, you must do everything like your hardware and software setting, understanding financial market risk and market itself, backtesting, performance evaluation, and other tasks related to financial and investment AT YOUR OWN RISK.
+- Author will not be liable for any damages arising out of your use of this page.

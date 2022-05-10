@@ -25,8 +25,8 @@ thkkmarketaiのGithub Pagesへようこそ。
 
 ### **recent posts**
 ---
-1. [2022-04-28]
-2. [2022-04-27](https://thkkmarketai.github.io/2022/04/27/first-post.html) first post / 初投稿
+1. [2022-04-27](https://thkkmarketai.github.io/2022/04/27/first-post.html) 初投稿 / first post
+2. []
 3. []
 4. []
 5. []
