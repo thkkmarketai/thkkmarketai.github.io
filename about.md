@@ -5,12 +5,12 @@ description: about
 ---
 
 ### **相場"勘"からの脱却**
-### **Remove your "imagination" of the market**
+### **Remove your "imagination" of the financial market**
 ---
 
 　質が良く、独自性の高い "情報" の取得・生成に奔走することは、市場参加者の必須業務であると共に、パフォーマンスを維持する生命線となります。しかし、当然ながらその情報は全ての市場参加者に平等に与えられる訳ではなく、真偽の判断にも自身の力量が問われることになります。
 
-　近年のデジタル化により、情報格差は更に拡大しました。「資本やマンパワーが違うから仕方ない」と受け容れる姿勢も重要ですが、私は "見えない部分" に到達する努力を怠るべきではないと考えています。人間の判断は、想像に頼るほどその精度を失う可能性が高いからです。
+　近年のデジタル化により、情報格差は更に拡大しました。「資本やマンパワーが違うから仕方ない」と受け容れる姿勢も重要ですが、私は "見えない部分" に到達する努力を怠るべきではないと考えています。人間の判断は、想像に頼るほどその精度を失うことになるからです。
 
 　「情報を持って市場を身動きしている」つもりが、実は「市場の思うがままに操られているだけ」という状況を、残念ながら私は何度も経験しました。マーケットを可視化して感覚依存を減らし、合理的に裏付けされた判断力を身につけ、マーケットに翻弄されない体質を得るにはどうすればよいでしょうか。
 
@@ -28,9 +28,9 @@ description: about
 ### **Project Categories**
 ---
 
-　AIを駆使しその境地に可能な限り近づくことが、私の最終目標です。このページでは、以下の6つに関する進捗を随時Updateしていきます。最初の4つはマーケットパラメータを取得・生成する工程、そして残りの2つはマーケット可視化と判断力の強化に繋げる工程になります。
+　AIを駆使しその境地に可能な限り近づくため、以下の作業工程を設定しました。最初の4つはマーケットパラメータを取得・生成する工程、そして残りの2つはマーケット可視化と判断力の強化に繋げる工程です。このページでは、これら6工程の進捗について随時Updateを掲載しています。
 
-　It's my goal to get there with AI. I will update as needed about the following six ongoing projects. Initial four parts for generating parameters and two parts left for monitoring of the live market.
+　You can see my project categories below to achieve the goal with AI. Initial four parts for generating parameters and two parts left for monitoring of the live market. I will update these six ongoing projects on this page as needed.
 
 &emsp;
 
@@ -55,13 +55,13 @@ description: about
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>thkkmarketai</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1981</dd>
 <dt>Birthplace</dt>
 <dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>interest</dt>
+<dd>FX, Crypto, and Rates</dd>
 </dl>
 
 &emsp;
