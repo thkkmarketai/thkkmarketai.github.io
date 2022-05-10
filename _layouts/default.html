@@ -16,8 +16,8 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+          {% if site.github.pages_url %}
+            <a id="forkme_banner" href="{{ site.github.pages_url }}">thkkmarketai.github.io on GitHub</a>
           {% endif %}
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
@@ -42,10 +42,9 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        {% if site.github.is_project_page %}
-        <p class="copyright"><a href="{{ site.github.pages_url }}">{{ site.title | default: site.github.repository_name }}</a> maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% if site.github.pages_url %}
+        <p class="copyright"><a href="{{ site.github.pages_url }}">{{ site.title | default: site.github.pages_name }}</a> maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
   </body>

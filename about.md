@@ -32,16 +32,17 @@ description: about
 
 　It's my goal to get there with AI. I will update as needed about the following six ongoing projects. Initial four parts for generating parameters and two parts left for monitoring of the live market.
 
----
 &emsp;
+
 1. [マーケットデータ / Market Data](https://thkkmarketai.github.io/marketdata)
 2. [データ処理 / Data Preprocessing](https://thkkmarketai.github.io/datapreprocessing)
 3. [パターン / Patterns](https://thkkmarketai.github.io/patterns)
 4. [特徴量生成 / Feature Engineering](https://thkkmarketai.github.io/featureengineering)
 5. [マーケットモニタリング / Market Monitoring](https://thkkmarketai.github.io/marketmonitoring)
 6. [状態モニタリング / Status Monitoring](https://thkkmarketai.github.io/statusmonitoring)
+
 &emsp;
----
+
 
 　前工程と後工程、どちらか一方の質が良いだけでは求める効果に到達できません。AIの演算能力と監視能力を融合することが、目標達成の鍵になると考えています。
 
