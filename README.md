@@ -5,6 +5,7 @@ thkkmarketaiのGithub Pagesへようこそ。
 &emsp;
 
 ### **information**
+---
 - [about](https://thkkmarketai.github.io/about)
 - [News](https://thkkmarketai.github.io/news)
 - [twitter (https://twitter.com/thkkmarketai)](https://twitter.com/thkkmarketai)
@@ -12,6 +13,7 @@ thkkmarketaiのGithub Pagesへようこそ。
 &emsp;
 
 ### **project categories**
+---
 1. [マーケットデータ / Market Data](https://thkkmarketai.github.io/marketdata)
 2. [データ処理 / Data Preprocessing](https://thkkmarketai.github.io/datapreprocessing)
 3. [パターン / Patterns](https://thkkmarketai.github.io/patterns)
@@ -22,6 +24,7 @@ thkkmarketaiのGithub Pagesへようこそ。
 &emsp;
 
 ### **recent posts**
+---
 1. [2022-04-28]
 2. [2022-04-27](https://thkkmarketai.github.io/2022/04/27/first-post.html) first post / 初投稿
 3. []
@@ -36,5 +39,6 @@ thkkmarketaiのGithub Pagesへようこそ。
 &emsp;
 
 ### **GitHub Pages**
+---
 - This page was published with [GitHub Pages (https://pages.github.com)](https://pages.github.com).
 - This page's theme is [Slate theme (https://github.com/pages-themes/slate)](https://github.com/pages-themes/slate).
