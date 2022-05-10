@@ -9,5 +9,6 @@ plugins:
   - jemoji
 
 github:
-  pages_url: https://github.com/thkkmarketai/thkkmarketai.github.io
+  pages_url: https://thkkmarketai.github.io
+  pages_repository_url: https://github.com/thkkmarketai/thkkmarketai.github.io
   pages_name: thkkmarketai.github.io
