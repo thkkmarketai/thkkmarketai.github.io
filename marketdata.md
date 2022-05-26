@@ -8,8 +8,7 @@ description: "マーケットデータ / Market Data"
 ## **マーケットデータ / Market Data**
 
 - リポジトリ / Repository
- <!-- - [Market Data](https://thkkmarketai.github.io/MarketData)
- - [Market Data](https://github.com/thkkmarketai/MarketData) -->
+ <!-- - [Market Data](https://thkkmarketai.github.io/MarketData) - [Market Data](https://github.com/thkkmarketai/MarketData) -->
 
 &emsp;
 
