@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TMAI
+title: thkk market AI
 description: "News"
 ---
 

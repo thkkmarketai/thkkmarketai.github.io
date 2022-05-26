@@ -1,10 +1,20 @@
 ---
 layout: default
-title: TMAI
+title: thkk market AI
 description: ”状態モニタリング / Status Monitoring"
 ---
 
-
 ## **状態モニタリング / Status Monitoring**
+- リポジトリ / Repository
+ <!-- - [Status Monigoring]() -->
 
-内面もモニタリングすることで、マーケットをより立体的に可視化してきます。
+&emsp;
+
+## **resent posts**
+1. []
+2. []
+3. []
+4. []
+5. []
+
+&emsp;
