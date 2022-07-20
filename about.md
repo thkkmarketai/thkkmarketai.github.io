@@ -4,11 +4,10 @@ title: thkk market AI
 description: about
 ---
 
-### **相場"勘"からの脱却**
-### **Free from your "imagination" of the financial market**
+### **相場 "勘" からの脱却 / Free from your "imagination"**
 ---
 
-　質が良く、独自性の高い "情報" の取得・生成に奔走することは、市場参加者の必須業務であると同時に、パフォーマンスを維持する生命線となります。しかし、当然ながらその情報は全ての市場参加者に平等に与えられる訳ではなく、真偽の判断にも自身の力量が問われることになります。
+　質の高い "情報" の取得・生成に奔走することは、市場参加者の必須業務であると同時に、パフォーマンスを維持する生命線となります。しかし、当然ながらその情報は全ての市場参加者に平等に与えられる訳ではなく、真偽の判断にも自身の力量が問われることになります。
 
 　近年のデジタル化により、情報格差は更に拡大しました。「資本やマンパワーが違うから仕方ない」と諦めて受け容れる姿勢も重要ですが、私は "見えない部分" に到達する努力を怠るべきではないと考えています。人間の判断力は、想像に頼るほどその精度を失うことになるからです。
 
@@ -16,7 +15,7 @@ description: about
 
 &emsp;
 
-　All of financial market participants must spend lots of time to get high-quality and high-originality market information to keep their performance stable. But that information is not provided to everyone equally, and we also need to clarify whether it is true or false.
+　All of financial market participants must spend lots of time to get high-quality market information to keep their performance stable. But that information is not provided to everyone equally, and we also need to clarify whether it is true or false.
 
 　"Information gap" is getting wider and wider by recent digitalization. I think it is very essential task to try to reach out the "invisible part" of the financial market, though it's easy to give up and say "Because they are always well-funded and employing lots of PhDs!". The more we depend on our "imagination", the less precision we have.
 
@@ -24,8 +23,7 @@ description: about
 
 &emsp;
 
-### **プロジェクト内容**
-### **Project Categories**
+### **プロジェクト内容 / Project Categories**
 ---
 
 　AIを駆使すれば、それは果たして実現可能でしょうか？このプロジェクトは、以下の6工程を通してその問いに答えようとする試みです。
@@ -76,7 +74,7 @@ description: about
 - individual, non-commercial use only.
 - change, add, revise, delete the contents, anytime, without notice
 - stop, suspend, close this page anytime, without notice
--
+- intellectual properties 
 - You can see the details here about the repository license
 
 &emsp;
