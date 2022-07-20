@@ -4,7 +4,6 @@ title: thkk market AI
 description: "News"
 ---
 
-
 #### 2022-04-27
 ### **GitHub Pagesを開設しました**
 ### **Welcome to thkk market AI**
@@ -14,6 +13,6 @@ description: "News"
 
 &emsp;
 
-　I opened GitHub Pages. I will try to create accurate and substantial contents and hope you like it.
+　I opened my GitHub Pages. I will try to create accurate and substantial contents and hope you like it.
 
 &emsp;

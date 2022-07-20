@@ -38,6 +38,12 @@ thkkmarketaiのGithub Pagesへようこそ。
 
 &emsp;
 
+### **License**
+---
+-
+
+&emsp;
+
 ### **GitHub Pages**
 ---
 - This page was published with [GitHub Pages (https://pages.github.com)](https://pages.github.com).
