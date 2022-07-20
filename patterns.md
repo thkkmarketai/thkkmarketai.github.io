@@ -5,7 +5,6 @@ description: "パターン / Patterns"
 ---
 
 ## **パターン / Patterns**
----
 
 - リポジトリ / Repository
  - [Patterns](https://thkkmarketai.github.io/patterns)
@@ -13,7 +12,6 @@ description: "パターン / Patterns"
 &emsp;
 
 ## **resent posts**
----
 1. []
 2. []
 3. []

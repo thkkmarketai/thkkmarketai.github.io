@@ -30,6 +30,8 @@ description: about
 
 　6つのうち、最初の4工程はデータ取得とパラメータ生成に関するもの、そして残り2つはマーケット可視化と判断力の強化に繋げる工程になります。どちらか一方の質が良いだけでは求める効果に到達できません。AIの「演算能力」と「監視能力」、これら双方を融合することが目標達成の鍵になると考えています。
 
+&emsp;
+
 　Is it possible for me to achieve it with AI? This project is aiming to find the answer to that question through six ongoing projects below.
 
 　Initial four parts are for generating parameters and two parts left for monitoring of the live market. I can't reach the goal without getting both. It will be the most difficult part to combine AI computing power with its surveillance technology.
@@ -61,7 +63,7 @@ description: about
 
 &emsp;
 
-## **このページについて / about this page**
+### **このページについて / about this page**
 
 - 個人目的、または非商用目的の利用に限定されています。
 - 内容は、管理者の判断により予告なく、いつでも、変更、追加、訂正、または削除することができるものとします。
@@ -74,7 +76,7 @@ description: about
 - individual, non-commercial use only.
 - change, add, revise, delete the contents, anytime, without notice
 - stop, suspend, close this page anytime, without notice
-- intellectual properties 
+- intellectual properties
 - You can see the details here about the repository license
 
 &emsp;

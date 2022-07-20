@@ -5,7 +5,6 @@ description: "特徴量生成 / Feature Engineering"
 ---
 
 ## **特徴量生成 / Feature Engineering**
----
 
 - リポジトリ / Repository
  - [Feature Engineering](https://thkkmarketai.github.io/featureengineering)
@@ -13,7 +12,6 @@ description: "特徴量生成 / Feature Engineering"
 &emsp;
 
 ## **resent posts**
----
 1. []
 2. []
 3. []
@@ -35,7 +33,6 @@ description: "特徴量生成 / Feature Engineering"
 &emsp;
 
 ### **生成したい特徴量 / Features List**
----
 
 - []
 - []

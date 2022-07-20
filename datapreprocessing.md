@@ -5,7 +5,6 @@ description: "データ処理 / Data Preprocessing"
 ---
 
 ## **データ処理 / Data Preprocessing**
----
 
 - リポジトリ / Repository
  - [Data Preprocessing](https://thkkmarketai.github.io/datapreprocessing)
@@ -13,7 +12,6 @@ description: "データ処理 / Data Preprocessing"
 &emsp;
 
 ## **resent posts**
----
 1. []
 2. []
 3. []
